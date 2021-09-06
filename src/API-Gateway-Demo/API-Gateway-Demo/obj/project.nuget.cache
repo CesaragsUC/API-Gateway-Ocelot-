@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+n/HlNW6PGoopDzBxU64HhBUZTo/JaTOfgWUCMwSQ8lqkoVEeKSsVVGixrS8/fupS8DS2HmX+R8IozPAJf/tw==",
+  "success": true,
+  "projectFilePath": "L:\\Projetos ASP.NET\\API-Gateway-Ocelot-\\src\\API-Gateway-Demo\\API-Gateway-Demo\\API-Gateway-Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.middlewareanalysis\\3.1.1\\microsoft.aspnetcore.middlewareanalysis.3.1.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.1\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.1\\microsoft.extensions.dependencyinjection.abstractions.3.1.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.diagnosticadapter\\3.1.1\\microsoft.extensions.diagnosticadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\ocelot\\15.0.6\\ocelot.15.0.6.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.0\\system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}

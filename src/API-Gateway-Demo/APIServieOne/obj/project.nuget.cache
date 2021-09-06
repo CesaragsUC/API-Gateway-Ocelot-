@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+f6hhhSpr6up4hl/TLn4gZTmDHJif7vihdslAEAz2RZZMFTiY2fMaskK2pDJ/HMIVd/OWzzIDwZV6EwwJSJlAQ==",
+  "success": true,
+  "projectFilePath": "L:\\Projetos ASP.NET\\API-Gateway-Ocelot-\\src\\API-Gateway-Demo\\APIServieOne\\APIServieOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
